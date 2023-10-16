@@ -1,4 +1,4 @@
-import java.util.Scanner;
+37import java.util.Scanner;
 public class revnum {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

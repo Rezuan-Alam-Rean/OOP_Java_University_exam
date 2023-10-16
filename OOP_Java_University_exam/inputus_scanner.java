@@ -1,6 +1,6 @@
 
  import java.util.Scanner;
-public class inputusingscanner {
+public class inputus_scanner {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
